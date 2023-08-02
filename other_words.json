@@ -1,0 +1,17 @@
+[
+      "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche",
+      "janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre",
+      "et", "ou", "mais", "car", "donc", "or", "ni", "puisque", "quand", "que", "quoique", "si",
+      "avoir", "être", "faire", "aller", "pouvoir", "devoir", "vouloir",
+      "le", "la", "les", "un", "une", "des", "du", "de", "à", "dans", "sur", "sous", "par", "pour", "avec", "sans", "en", "vers", "chez", "entre", "pendant",
+      "qui", "que", "quoi", "dont", "où", "comment", "quand", "quel", "quelle", "quels", "quelles", "je", "tu", "il", "elle", "nous", "vous", "ils", "elles",
+      "ce", "cette", "ces", "cet", "mais", "ou", "et", "donc", "or", "ni", "car", "si", "lorsque", "puisque", "comme", "aussi", "très", "peu", "beaucoup",
+      "pourquoi", "comment", "qui", "quoi", "où", "dont", "lequel", "laquelle", "lesquels", "lesquelles", "chacun", "chacune", "certains", "certaines",
+      "tous", "toutes", "plusieurs", "même", "autre", "autres", "tel", "telle", "tels", "telles", "quelque", "quelques", "nul", "nulle", "tout", "toute",
+      "chaque", "quelconque", "quelconques", "quiconque", "autrui", "tien", "tienne", "tiens", "tiennes", "miens", "miennes", "notre", "votre", "leur",
+      "mien", "mienne", "tien", "tienne", "sien", "sienne", "nôtre", "vôtre", "leur", "tien", "tienne", "sien", "sienne", "nôtre", "vôtre", "leur", "ceci",
+      "cela", "ça", "ceux", "celles", "chacun", "chacune", "certains", "certaines", "tout", "tous", "toutes", "plusieurs", "peu", "beaucoup", "un", "une",
+      "quelques", "autre", "autres", "quelconque", "nul", "nulle", "certains", "certaines", "aucun", "aucune", "tout", "toute", "chaque", "quelque", "autrui",
+      "encore","c'est","alor","plu","fait","ainsi","bien", "avant","selon","depuis","après","peut","plus","ans","année","dernier","semaine","jour"
+
+    ]
